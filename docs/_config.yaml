@@ -1,6 +1,7 @@
 title: IITC PluginKit Example
 description: An example plugin
-theme: just-the-docs
+theme: jekyll-theme-minimal
+#theme: just-the-docs
 logo: "your_logo_path"
 favicon_ico: "your_icon_path"
 
